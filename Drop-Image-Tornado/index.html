@@ -39,26 +39,22 @@
         ];
 
         function dropImage(){
-            let section = document.querySelector('section');
-            let drop = document.createElement('span');
-            drop.style.left = '50%';
-            // drop.style.left = Math.random() * innerWidth + 'px';
-            drop.style.top = Math.random() * innerHeight + 'px';
-
-            let bg = images[Math.floor(Math.random()*images.length)];
-
-            let size = Math.random() * 200;
-            drop.style.width = 35 + size + 'px';
-            drop.style.height = size + 'px';
-            drop.style.backgroundImage = bg;
-
-            section.appendChild(drop);
-            
-            setTimeout( ()=>{
-                drop.remove()
-            }, 6000);
+        let section = document.querySelector('section');
+        let drop = document.createElement('span');
+        drop.style.left = '50%';
+        // drop.style.left = Math.random() * innerWidth + 'px';
+        drop.style.top = Math.random() * innerHeight + 'px';
+        let bg = images[Math.floor(Math.random()*images.length)];
+        let size = Math.random() * 200;
+        drop.style.width = 35 + size + 'px';
+        drop.style.height = size + 'px';
+        drop.style.backgroundImage = bg;
+        section.appendChild(drop);
+        setTimeout( ()=>{
+            drop.remove()
+        }, 6000);
         }
-
+        
         setInterval(dropImage, 50);
     </script>
 </body>
