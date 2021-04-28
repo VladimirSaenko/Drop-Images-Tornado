@@ -2,9 +2,11 @@
  
 Сайт, прародитель которого является сайт Crazy-Balls-or-Images-Drop. Главная фича-торнадо из картинок
 
-Portfolio-2
+Portfolio-2 {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/index.html
+
+}
 
 На основе сайта...{
 
