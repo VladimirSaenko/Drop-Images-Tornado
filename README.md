@@ -8,7 +8,7 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/
 
 }
 
-На основе сайта...{
+На основе сайта {
 
   https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop
   
