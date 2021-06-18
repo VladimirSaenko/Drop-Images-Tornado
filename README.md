@@ -8,6 +8,12 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/
 
 }
 
+Codepen {
+
+https://codepen.io/vladimirsaenko/pen/OJpqwMM
+
+}
+
 На основе сайта {
 
   https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop
