@@ -4,7 +4,7 @@
 
 ## Portfolio-2 {
 
-#### https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/index.html
 
 ### }
 
@@ -12,7 +12,7 @@
 
 ## Codepen {
 
-#### https://codepen.io/vladimirsaenko/pen/OJpqwMM
+### https://codepen.io/vladimirsaenko/pen/OJpqwMM
 
 ### }
 
