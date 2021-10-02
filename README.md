@@ -8,8 +8,6 @@
 
 ### }
 
-![photo_2021-06-21_12-12-09 (2)](https://user-images.githubusercontent.com/56477695/122738548-c0fc1d80-d28a-11eb-8dd4-24b21ee8ae95.jpg)
-
 ## Codepen {
 
 ### https://codepen.io/vladimirsaenko/pen/OJpqwMM
