@@ -16,7 +16,7 @@
 
 ### }
 
-## На основе сайта {
+## На основе сайта... {
 
 ### https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop
   
