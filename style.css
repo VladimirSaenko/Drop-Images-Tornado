@@ -6,26 +6,22 @@
     user-select: none;
 }
 
-body{
+body {
     overflow: hidden;
 }
 
-section{
+section {
     height: 100vh;
     overflow: hidden;
     background: #091921;
 }
 
-section span{
+section span {
     position: absolute;
     background: white;
     /* border-radius: 50%; */
     background-size: cover;
     animation: anime 6s linear;
-}
-
-section span {
-    border: black 10px solid;
 }
 
 @keyframes anime {
