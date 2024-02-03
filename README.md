@@ -1,6 +1,4 @@
 # Drop-Images-Tornado
- 
-## Торнадо из случайных изображений
 
 ![tornado_holovna-1024x683](https://user-images.githubusercontent.com/56477695/150160772-effba270-4935-445c-b5e5-712c0ac6cf74.jpg)
 
